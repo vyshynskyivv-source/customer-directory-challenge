@@ -1,0 +1,12 @@
+node_modules/
+dist/
+.npm-cache/
+.playwright/
+test-results/
+.codex-remote-attachments/
+.codex/
+.agents/
+submission/
+*.log
+.env*
+!.env.example
